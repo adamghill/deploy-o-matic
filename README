@@ -1,0 +1,5 @@
+Simple script that copies files from one directory to another.
+
+Currently used to move new code from a staging environment to a production environment.
+
+Might be enhanced in the future to move files from a local dev box to a remote box. Or check out from git to deploy, etc.
